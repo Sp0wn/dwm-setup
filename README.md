@@ -9,6 +9,7 @@ My custom setup with dwm
 | ----------------- | ---------------------------------  |
 | OS                | Arch Linux                         |
 | WM                | dwm                                |
+| Font              | 0xProto Nerd Font                  |
 | Display server    | Xorg: `xorg`                       |
 | Display manager   | SDDM: `sddm`                       |
 | Terminal emulator | Alacritty: `alacritty`             |
