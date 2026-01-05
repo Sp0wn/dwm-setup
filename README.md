@@ -1,7 +1,25 @@
 # dwm-setup
 My custom setup with dwm
 
+![dwm build](/dwm.png)
+
 ## Installation
+
+```bash
+git clone https://github.com/Sp0wn/dwm-setup.git
+
+# Install dependencies
+sudo pacman -S base-devel libx11 libxft libxinerama
+
+# Install dwm
+cd dwm-setup/dwm
+sudo make clean install
+
+# Install dwmblocks
+cd dwm-setup/dwmblocks
+make
+sudo make install
+```
 
 ## Setup
 
